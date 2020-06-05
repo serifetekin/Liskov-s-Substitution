@@ -1,0 +1,13 @@
+C:\WEB SERVİS PROJE\SOLID\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\LiskovsSubstitution.exe.config
+C:\WEB SERVİS PROJE\SOLID\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\LiskovsSubstitution.exe
+C:\WEB SERVİS PROJE\SOLID\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\LiskovsSubstitution.pdb
+C:\WEB SERVİS PROJE\SOLID\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\LiskovsSubstitution.csprojAssemblyReference.cache
+C:\WEB SERVİS PROJE\SOLID\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\LiskovsSubstitution.exe
+C:\WEB SERVİS PROJE\SOLID\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\LiskovsSubstitution.pdb
+C:\Users\Serife\Desktop\SOLID\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\LiskovsSubstitution.exe.config
+C:\Users\Serife\Desktop\SOLID\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\LiskovsSubstitution.exe
+C:\Users\Serife\Desktop\SOLID\LiskovsSubstitution\LiskovsSubstitution\bin\Debug\LiskovsSubstitution.pdb
+C:\Users\Serife\Desktop\SOLID\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\LiskovsSubstitution.csprojAssemblyReference.cache
+C:\Users\Serife\Desktop\SOLID\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\LiskovsSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\Serife\Desktop\SOLID\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\LiskovsSubstitution.exe
+C:\Users\Serife\Desktop\SOLID\LiskovsSubstitution\LiskovsSubstitution\obj\Debug\LiskovsSubstitution.pdb
